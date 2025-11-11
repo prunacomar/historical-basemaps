@@ -22,6 +22,31 @@ You'll find other [use examples with D3 and Leaflet](https://ourednik.info/histo
 
 All maps are stored in the [_geojson_](https://github.com/aourednik/historical-basemaps/tree/master/geojson) format: single file per feature layer, human and machine readable, easy to import in [qGIS](https://github.com/qgis/QGIS) or use in [D3](https://github.com/d3) (see [d3v5_example.html](https://github.com/aourednik/historical-basemaps/tree/master/d3v5_example.html) as well as [d3v5_roughjs_example.html](https://github.com/aourednik/historical-basemaps/tree/master/d3v5_roughjs_example.html) with the additional use of [rough.js](https://github.com/pshihn/rough)). [Integration in Leaflet](https://ourednik.info/historicalmaps/leafletExample), OpenLayers et al. is also easy to achieve.
 
+### 📁 `index.json`
+
+A lightweight summary of the dataset is available in [`index.json`](./index.json). It lists:
+
+* The `year` and corresponding `.geojson` `filename`
+* The list of `countries` (based on `NAME` property) in each file
+
+This file is auto-generated on every commit via GitHub Actions and helps applications quickly query available years or filter by country without loading full files.
+
+Example:
+
+```json
+{
+  "year": 1492,
+  "filename": "world_1492.geojson",
+  "countries": ["Spain", "Portugal", "Inca Empire"]
+}
+```
+
+You can regenerate it manually by running:
+
+```bash
+node scripts/generateIndex.js
+```
+
 ### Polygons
 
 Geocoding precision of multipolygons is adapted for mapping data on world/continent scale. The following fields are available in every file:
