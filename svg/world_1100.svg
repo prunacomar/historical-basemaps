@@ -890,7 +890,7 @@
 <text x='1786.27' y='483.11' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='64.14px' lengthAdjust='spacingAndGlyphs'>Imperial Japan (Fujiwara)</text>
 <text x='1338.83' y='838.55' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='31.28px' lengthAdjust='spacingAndGlyphs'>Madagascar</text>
 <text x='1119.25' y='317.37' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='19.27px' lengthAdjust='spacingAndGlyphs'>Norway</text>
-<text x='1321.34' y='867.45' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='81.53px' lengthAdjust='spacingAndGlyphs'>Expansionist Kingdom of Merina</text>
+<text x='1321.34' y='867.45' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='81.53px' lengthAdjust='spacingAndGlyphs'>Merina Kingdom</text>
 <text x='1808.28' y='431.36' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='11.38px' lengthAdjust='spacingAndGlyphs'>Ainu</text>
 <text x='1110.78' y='470.16' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='20.87px' lengthAdjust='spacingAndGlyphs'>Sardinia</text>
 <text x='1684.26' y='590.60' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='18.01px' lengthAdjust='spacingAndGlyphs'>Hainan</text>
@@ -920,7 +920,7 @@
 <text x='1422.60' y='543.16' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='41.08px' lengthAdjust='spacingAndGlyphs'>Soomra Emirate</text>
 <text x='1408.86' y='500.90' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='48.35px' lengthAdjust='spacingAndGlyphs'>Ghaznavid Emirate</text>
 <text x='1231.89' y='477.45' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='44.56px' lengthAdjust='spacingAndGlyphs'>Byzantine Empire</text>
-<text x='1142.36' y='482.44' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='52.76px' lengthAdjust='spacingAndGlyphs'>Dutchy of Benevento</text>
+<text x='1142.36' y='482.44' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='52.76px' lengthAdjust='spacingAndGlyphs'>Duchy of Benevento</text>
 <text x='1206.88' y='541.43' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='44.24px' lengthAdjust='spacingAndGlyphs'>Fatimid Caliphate</text>
 <text x='1109.84' y='414.80' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='24.34px' lengthAdjust='spacingAndGlyphs'>Burgandy</text>
 <text x='1144.11' y='432.35' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='18.32px' lengthAdjust='spacingAndGlyphs'>Croatia</text>
@@ -976,11 +976,11 @@
 <text x='576.98' y='448.69' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='48.36px' lengthAdjust='spacingAndGlyphs'>Plain bison hunters</text>
 <text x='524.06' y='398.69' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='91.94px' lengthAdjust='spacingAndGlyphs'>Plateau fichers and hunter gatherers</text>
 <text x='508.87' y='448.87' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='60.34px' lengthAdjust='spacingAndGlyphs'>Desert hunter-gatherers</text>
-<text x='1197.53' y='904.94' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='23.71px' lengthAdjust='spacingAndGlyphs'>Khoiasan</text>
+<text x='1197.53' y='904.94' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='23.71px' lengthAdjust='spacingAndGlyphs'>Khoisan</text>
 <text x='1147.59' y='658.05' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='70.14px' lengthAdjust='spacingAndGlyphs'>West African cereal farmers</text>
-<text x='635.45' y='474.16' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='104.26px' lengthAdjust='spacingAndGlyphs'>Eastern North Amercian hunter-gatherers</text>
+<text x='635.45' y='474.16' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='104.26px' lengthAdjust='spacingAndGlyphs'>Eastern North American hunter-gatherers</text>
 <text x='1054.87' y='401.12' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='17.70px' lengthAdjust='spacingAndGlyphs'>Britany</text>
-<text x='1207.55' y='766.85' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='18.01px' lengthAdjust='spacingAndGlyphs'>Bantou</text>
+<text x='1207.55' y='766.85' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='18.01px' lengthAdjust='spacingAndGlyphs'>Bantu peoples</text>
 <text x='664.75' y='540.11' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='67.94px' lengthAdjust='spacingAndGlyphs'>Caloosahatchee cultureure</text>
 <text x='1140.80' y='379.79' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='24.97px' lengthAdjust='spacingAndGlyphs'>Prussians</text>
 <text x='1206.56' y='368.60' text-anchor='middle' style='font-size: 5.69px; font-family: "Arial";' textLength='54.04px' lengthAdjust='spacingAndGlyphs'>Principality of Polotsk</text>
